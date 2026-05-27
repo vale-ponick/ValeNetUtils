@@ -1,5 +1,5 @@
 //
-//  daskFree.swift
+//  diskFree.swift
 //  ValeNetUtils
 //
 //  Created by Валерия Пономарева on 27.05.2026.

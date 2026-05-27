@@ -57,3 +57,4 @@ func runProcessList() {
         print("❌ Ошибка при запуске ps: \(error)")
     }
 }
+

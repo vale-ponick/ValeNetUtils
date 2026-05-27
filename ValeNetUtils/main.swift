@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import Foundation
 
 let arguments = CommandLine.arguments
 
@@ -22,6 +21,8 @@ case "diskfree":
     runDiskFree()
 case "processlist":
     runProcessList()
+case "pingchecker":
+    runPingChecker()
 default:
     print("❌ Неизвестная команда: \(command)")
 }
