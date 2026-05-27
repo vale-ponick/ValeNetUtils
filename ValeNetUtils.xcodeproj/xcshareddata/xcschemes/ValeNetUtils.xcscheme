@@ -58,11 +58,7 @@
             isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
-            argument = ""
-            isEnabled = "YES">
-         </CommandLineArgument>
-         <CommandLineArgument
-            argument = "/abcdefg"
+            argument = "processlist"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
