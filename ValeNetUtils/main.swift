@@ -23,6 +23,8 @@ case "processlist":
     runProcessList()
 case "pingchecker":
     runPingChecker()
+case "upTime":
+    runUpTime() 
 default:
     print("❌ Неизвестная команда: \(command)")
 }
