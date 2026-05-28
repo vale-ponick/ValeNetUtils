@@ -24,7 +24,9 @@ case "processlist":
 case "pingchecker":
     runPingChecker()
 case "upTime":
-    runUpTime() 
+    runUpTime()
+case "whoison":
+    runWhoison()
 default:
     print("❌ Неизвестная команда: \(command)")
 }
