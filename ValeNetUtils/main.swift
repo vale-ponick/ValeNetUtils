@@ -29,6 +29,8 @@ case "whoison":
     runWhoison()
 case "filesize":
     runFilesize()
+case "memory":
+    runMemory()
 default:
     print("❌ Неизвестная команда: \(command)")
 }
