@@ -27,6 +27,8 @@ case "upTime":
     runUpTime()
 case "whoison":
     runWhoison()
+case "filesize":
+    runFilesize()
 default:
     print("❌ Неизвестная команда: \(command)")
 }
